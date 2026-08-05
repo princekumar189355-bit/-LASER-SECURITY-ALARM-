@@ -1,0 +1,26 @@
+# 📋 Bill of Materials (BOM)
+
+| S.No. | Component | Quantity | Approx. Cost (INR) |
+|------:|-----------|:--------:|-------------------:|
+| 1 | Laser Module | 1 | ₹50 |
+| 2 | LDR (Light Dependent Resistor) | 1 | ₹10 |
+| 3 | Active Buzzer | 1 | ₹30 |
+| 4 | 5mm LED | 1 | ₹5 |
+| 5 | 220Ω Resistor | 1 | ₹2 |
+| 6 | 10kΩ Resistor | 1 | ₹2 |
+| 7 | BC547 NPN Transistor | 1 | ₹10 |
+| 8 | Mini Breadboard | 1 | ₹80 |
+| 9 | Jumper Wires | 1 Set | ₹40 |
+| 10 | 9V Battery | 1 | ₹40 |
+| 11 | 9V Battery Clip | 1 | ₹20 |
+
+---
+
+## 💰 Total Estimated Cost
+
+| Item | Value |
+|------|------:|
+| **Total Components** | **11** |
+| **Estimated Total Cost** | **₹289** |
+
+> **Note:** Prices are approximate and may vary depending on the local electronics shop or online store.
