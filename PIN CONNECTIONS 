@@ -1,0 +1,18 @@
+# 🔌 Pin Connections
+
+| Component | Connection |
+|-----------|------------|
+| 9V Battery (+) | Laser Module (+), Buzzer (+), Circuit VCC |
+| 9V Battery (-) | Common GND |
+| Laser Module (+) | 9V Battery (+) *(or VCC if using a regulated laser module)* |
+| Laser Module (-) | GND |
+| LDR Pin 1 | VCC |
+| LDR Pin 2 | 10kΩ Resistor and Transistor Base |
+| 10kΩ Resistor | LDR Pin 2 to GND |
+| BC547 Collector | Buzzer (-) and LED (-) |
+| BC547 Base | LDR Output |
+| BC547 Emitter | GND |
+| Buzzer (+) | VCC |
+| Buzzer (-) | BC547 Collector |
+| LED (+) | VCC through 220Ω Resistor |
+| LED (-) | BC547 Collector |
